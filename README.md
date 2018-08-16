@@ -14,3 +14,5 @@ https://www.youtube.com/watch?v=hzv9A63RaaA&t=10s
 
 CFC Resilient Financial Networks, Tech Area - Oliver Rodriguez 
 https://www.youtube.com/watch?v=-hNxVNRSYE8&t=26s
+
+Developers should start by looking at the technology area use cases and reference patterns at developer.ibm.com/callforcode. This site includes related videos, blogs and tech talks on many related technologies. Beyond that, teams can use the IBM Cloud catalog and documentation to read more. 
