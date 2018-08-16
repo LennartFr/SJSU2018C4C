@@ -1,5 +1,7 @@
 # SJSU2018C4C
 
+https://callforcode.org/faq 
+
 CFC Technical Overview - Daniel Krook
 https://www.youtube.com/watch?v=CWfu-gmsD0Q&t=1s
 
