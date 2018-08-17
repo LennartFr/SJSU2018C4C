@@ -24,10 +24,15 @@ Developers should start by looking at the technology area use cases and referenc
 https://developer.ibm.com/callforcode/
 
 https://developer.ibm.com/callforcode/resources/financial-networks/
+
 https://developer.ibm.com/callforcode/resources/translate/
+
 https://developer.ibm.com/callforcode/resources/healthcare/
+
 https://developer.ibm.com/callforcode/resources/traffic-and-weather/
+
 https://developer.ibm.com/callforcode/resources/preventative-action/
+
 https://developer.ibm.com/callforcode/resources/visual-recognition/
 
 https://developer.ibm.com/callforcode/techtalks/
